@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-markdown: GFM
+# markdown: GFM
 
 title: Tolga's <codespace>
 email: tolga.balci@zohomail.eu
+author: Tolga Balcı
 description: >- # this means to ignore newlines until "baseurl:"
   @tbalci's personal space where he talks about the codes he is working on.
 baseurl: "" # the subpath of your site, e.g. /blog
