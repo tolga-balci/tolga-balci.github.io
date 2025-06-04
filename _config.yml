@@ -41,6 +41,10 @@ minima:
 show_excerpts: true
 excerpt_separator: "<!--more-->"
 
+# Google Analytics
+google_analytics: G-F7JYQBQB00
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
